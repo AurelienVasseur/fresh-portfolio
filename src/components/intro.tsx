@@ -86,7 +86,7 @@ export default function Intro() {
         <a
           href="/CV.pdf"
           download
-          className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:sclae-105 transition cursor-pointer borderBlack"
+          className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:sclae-105 transition cursor-pointer borderBlack dark:bg-white/10"
         >
           Download CV{" "}
           <HiDownload className="opacity:60 group-hover:translate-x-1 transition" />
@@ -95,7 +95,7 @@ export default function Intro() {
         <a
           href="https://linkedin.com"
           target="_blank"
-          className="bg-white text-gray-700 p-4 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:sclae-105 transition cursor-pointer borderBlack"
+          className="bg-white text-gray-700 p-4 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:sclae-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
         >
           <BsLinkedin />
         </a>
@@ -103,7 +103,7 @@ export default function Intro() {
         <a
           href="https://github.com"
           target="_blank"
-          className="bg-white text-gray-700 text-[1.5rem] p-4 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:sclae-105 transition cursor-pointer borderBlack"
+          className="bg-white text-gray-700 text-[1.5rem] p-4 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:sclae-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
         >
           <FaGithubSquare />
         </a>
