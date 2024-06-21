@@ -39,4 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 This project has been created based on https://www.youtube.com/watch?v=sUKptmUVIBM.
 
-Current: 2h 14min
+Current: 4h 45min
