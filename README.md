@@ -38,5 +38,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Credits
 
 This project has been created based on https://www.youtube.com/watch?v=sUKptmUVIBM.
-
-Current: 4h 45min
